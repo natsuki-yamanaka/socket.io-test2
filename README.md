@@ -38,5 +38,4 @@ io.roomClients.xxxxxx
 io.rooms.xxxxxx  
 io.closed.xxxxxx  
 io.connected.xxxxxx  
-io.connected.xxxxxx  
 is still alive.
