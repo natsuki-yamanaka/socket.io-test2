@@ -16,7 +16,7 @@ var util = require('util');
  */
 //---------------------------------------------------------------------------------//
 var io = require('socket.io/node_modules/socket.io-client/lib/io');
-var domain = '10.10.2.114';
+var domain = 'localhost';
 var port = '20082';
 var event = 'login';
 var data = {
